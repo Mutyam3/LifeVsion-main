@@ -19,9 +19,9 @@ Here lifeVsion is equipped with another capability of displaying small informati
 
 Model Training results:
 
-![image](https://github.com/Shoaib3786/LifeVsion/assets/104248739/71570682-1397-4ddd-b688-0318a2ccdc3f)
+![image]()
 
-![image](https://github.com/Shoaib3786/LifeVsion/assets/104248739/782b9e69-aaac-4c21-a7ca-68b720c8bacf)
+![image]()
 
 
 Deployment of LifeVsion output video:
