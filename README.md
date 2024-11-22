@@ -19,10 +19,10 @@ Here lifeVsion is equipped with another capability of displaying small informati
 
 Model Training results:
 
-![image]()
+![image](https://github.com/Mutyam3/LifeVsion-main/blob/main/assets/Detection01.png)
 
-![image]()
+![image](https://github.com/Mutyam3/LifeVsion-main/blob/main/assets/Detection02.png)
 
 
 Deployment of LifeVsion output video:
-[Screencast from 2023-05-14 23-40-51.webm](https://github.com/Shoaib3786/LifeVsion/assets/104248739/016eb401-5683-4765-9be1-d9e810d944c8)
+[Screencast from 2023-05-14 23-40-51.webm](https://github.com/Mutyam3/LifeVsion-main/blob/main/assets/LiveVision-Video.webm)
